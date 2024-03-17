@@ -1,6 +1,6 @@
 # Final Project Cognition and Computation Course
 
-The project explores the impact of GloVe and BERT vector embeddings on language tasks, with a focus on gender bias. The study replicates Pereira et al.'s (2018) Analysis 1, using fMRI imaging data and GloVe embeddings to predict semantic vectors. The project extends this analysis, incorporating BERT embeddings and additional tasks. The open research task quantifies gender bias in both vector embeddings and fMRI data, referencing Garg et al. (2018). Furthermore, we attempt to replicate a debiasing task from Bolukbasi et al. (2016) to assess its effectiveness in mitigating gender bias identified in previous analyses.
+The project explores the impact of GloVe and BERT vector embeddings on language tasks, with a focus on gender bias. It replicates Pereira et al.'s (2018) Analysis 1, using fMRI imaging data and GloVe embeddings to predict semantic vectors. It extends this analysis by incorporating BERT embeddings and additional tasks. Gender bias is also explored in both vector embeddings and fMRI data, referencing Garg et al. (2018). Furthermore, an attempt is made to replicate a debiasing task from Bolukbasi et al. (2016) to assess its effectiveness in mitigating gender bias identified in previous analyses.
 
 ### Semantic Vectors To Decode Brain Activation
 
